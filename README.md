@@ -7,7 +7,7 @@ My Job Role: I am the data analyst assigned to analyse the client's sample data 
 
 During this experience I have learnt and applied my data analytics skills to:
 1. Project Understanding - Project Requirements and team alignment
-2. Data Cleaning & Data Modelling (Used Microsoft Excel)
-3. Data Visualization and Storytelling- (Used Power BI for Visualization)
-4. Presenting Insights back to the client (Presentation to the client)
+2. Data Cleaning & Data Modelling (Used Microsoft Power BI)
+3. Data Visualization and Storytelling- (Used Power BI )
+4. Presenting Insights back to the client (Microsoft PowerPoint)
 
