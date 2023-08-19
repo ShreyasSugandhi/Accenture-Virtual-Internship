@@ -10,4 +10,3 @@ During this experience I have learnt and applied my data analytics skills to:
 2. Data Cleaning & Data Modelling (Used Microsoft Power BI)
 3. Data Visualization and Storytelling- (Used Power BI )
 4. Presenting Insights back to the client (Microsoft PowerPoint)
-
